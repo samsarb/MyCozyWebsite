@@ -1,0 +1,39 @@
+body{
+    width:100vw ;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.curved{
+    color:rgb(241, 149, 10);
+    text-align: center;    
+}
+
+ h1{
+    font-size: 6rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin-left: 66px;
+    color: crimson;
+   
+}
+ p{
+     font-size: 32px;
+     color: rgb(216, 113, 16);
+     padding-left: 66px;
+ }
+ .curved.upper{
+    background:#fff ;
+    margin-top:22px;
+    
+}
+.curved p{
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0 5rem 0 5rem;
+}
+
+.curved svg{
+display:block;
+}
+
